@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Kanika Narang"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Student in Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Illinois, Urbana-Champaign", url = "https://cs.illinois.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Deep Learning",
+  "User Behavior Modeling",
+  "Graph Neural Networks",
+  "Text Mining"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +35,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Science, 2014- Present"
+  institution = "UIUC"
+  #year = 2014
+
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
+
+[[education.courses]]
+  course = "BTech. (Honors) in Computer Science"
+  institution = "IIIT, Delhi"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +57,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:knarang2@illinois.edu"  # For a direct email link, use "mailto:knarang2@illinois.edu"., "#contact"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/Kanika_narang"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=pF-F3KYAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/Kanika91"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +83,9 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 5th year PhD student in the Data Mining Group at University of Illinois, Urbana-Champaign. I am advised by [Prof. Hari Sundaram](http://sundaram.cs.illinois.edu/) and closely
+work with [Prof. Alexander Schwing](https://alexander-schwing.de). I have also worked as a Technical Staff Member (Research) in Information Management and Analytics group at [IBM Research Labs, India](https://www.research.ibm.com/labs/india/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+My research interests are broadly in the area of User Behavior Modeling, Graph Neural Networks and Credibility on Social Media. Specifically, I work on computing time sensitive and socially-aware user representations that are used for a wide range of tasks like finding
+credible answers in crowdsourced platforms and recommender systems.
