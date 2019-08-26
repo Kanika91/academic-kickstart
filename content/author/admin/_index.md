@@ -83,7 +83,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a 5th year PhD student in the Data Mining Group at University of Illinois, Urbana-Champaign. I am advised by [Prof. Hari Sundaram](http://sundaram.cs.illinois.edu/) and closely
+I am a 6th year PhD student in the Data Mining Group at University of Illinois, Urbana-Champaign. I am advised by [Prof. Hari Sundaram](http://sundaram.cs.illinois.edu/) and closely
 work with [Prof. Alexander Schwing](https://alexander-schwing.de). I have also worked as a Technical Staff Member (Research) in Information Management and Analytics group at [IBM Research Labs, India](https://www.research.ibm.com/labs/india/).
 
 

@@ -3,7 +3,7 @@ title = "Discovery and analysis of evolving topical social discussions on unstru
 date = "2013-03-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kanika Narang", "Seema Nagar",  "Sameep Mehta", "L Venkata Subramaniam", "Kuntal Dey"]
+authors = ["Kanika Narang","Seema Nagar","Sameep Mehta","L Venkata Subramaniam","Kuntal Dey"]
 
 # Publication type.
 # Legend:
