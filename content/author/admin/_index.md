@@ -89,3 +89,5 @@ work with [Prof. Alexander Schwing](https://alexander-schwing.de). I have also w
 
 My research interests are broadly in the area of User Behavior Modeling, Graph Neural Networks and Credibility on Social Media. Specifically, I work on computing time sensitive and socially-aware user representations that are used for a wide range of tasks like finding
 credible answers in crowdsourced platforms and recommender systems.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46315487-3/author/admin?pixel)](https://github.com/igrigorik/ga-beacon)
